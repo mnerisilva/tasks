@@ -28,7 +28,7 @@ export default function App() {
           }}
           />
           <Stack.Screen
-          name="Datails"
+          name="Details"
           component={Details}
           options={{
             headerTintColor: "#f92e6a"
