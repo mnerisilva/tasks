@@ -45,7 +45,7 @@ export default function Task({ navigation }){
                         }}
                     >
                     <FontAwesome
-                        name="star"
+                        name="tasks"
                         size={23}
                         color="#F92e6a"
                     >                        

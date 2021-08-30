@@ -24,6 +24,7 @@ const styles = StyleSheet.create({
         borderRadius: 50,
         marginBottom: 5,
         marginRight: 15,
+        paddingLeft: 0,
         color: "#282b2db5"
     },
     buttonNewTask: {
