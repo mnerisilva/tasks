@@ -45,8 +45,8 @@ export default function Task({ navigation }){
                         }}
                     >
                     <FontAwesome
-                        name="trash"
-                        siza={45}
+                        name="star"
+                        size={23}
                         color="#F92e6a"
                     >                        
                     </FontAwesome>

@@ -16,6 +16,7 @@ const styles = StyleSheet.create({
     },
     DescriptionTask: {
         width: "75%",
+        fontSize: 20,
         alignContent: "flex-start",
         backgroundColor: "#f5f5f5cf",
         padding: 12,
