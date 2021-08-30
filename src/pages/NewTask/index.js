@@ -4,7 +4,7 @@ import { ViewBase, Text, View } from "react-native"
 export default function NewTask(){
     return(
         <View>
-            <Text>Page NewTask ---</Text>
+            <Text>Page NewTask ///</Text>
         </View>
     )
 }
